@@ -1,0 +1,11 @@
+debug/GlobalData.o
+debug/Util_Search.o
+debug/gamewidget.o
+debug/main.o
+debug/mainwindow.o
+debug/searchwidget.o
+debug/widgetmanager.o
+debug/qrc_qrc.o
+debug/moc_gamewidget.o
+debug/moc_mainwindow.o
+debug/moc_searchwidget.o

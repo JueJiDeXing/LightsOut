@@ -1,0 +1,11 @@
+release/GlobalData.o
+release/Util_Search.o
+release/gamewidget.o
+release/main.o
+release/mainwindow.o
+release/searchwidget.o
+release/widgetmanager.o
+release/qrc_qrc.o
+release/moc_gamewidget.o
+release/moc_mainwindow.o
+release/moc_searchwidget.o

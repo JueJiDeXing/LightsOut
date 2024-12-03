@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GameWidget</class>
+ <widget class="QWidget" name="GameWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>554</width>
+    <height>582</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>熄灯游戏</string>
+  </property>
+  <widget class="QPushButton" name="backButton">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>41</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>返回</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>390</x>
+     <y>30</y>
+     <width>71</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>使用步数:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="stepCnt">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>30</y>
+     <width>71</width>
+     <height>19</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>0</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
